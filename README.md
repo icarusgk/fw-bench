@@ -1,4 +1,5 @@
 # fw-bench
+![Benchmark](https://github.com/icarusgk/fw-bench/assets/38413630/31508750-f497-4ccb-ab48-99b2d8343962)
 
 Steps for running the benchmark
 
